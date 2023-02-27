@@ -16,16 +16,6 @@ This project evaluates the performances of several popular and effective data mi
 
 URL : [http://archive.ics.uci.edu/ml/datasets/steel%2Bplates%2Bfaults]
 
-### Source:
-
-> Semeion, Research Center of Sciences of Communication, Via Sersale 117, 00128, Rome, Italy. 
-www.semeion.it
-
-### References:
-
->> M Buscema, S Terzi, W Tastle, A New Meta-Classifier,in NAFIPS 2010, Toronto (CANADA),26-28 July 2010, 978-1-4244-7858-6/10 Â©2010 IEEE
-
->> M Buscema, MetaNet: The Theory of Independent Judges, in Substance Use & Misuse, 33(2), 439-461,1998
 
 ## Workflow :
 
